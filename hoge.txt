@@ -3,3 +3,4 @@
 まずは僕が試しに別のフォルダにクローンした所からpushしてみる。サルでも分かるにあるステップですね。
 unkounko
 fofofofofo
+pullreq
